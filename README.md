@@ -51,14 +51,8 @@ Patients can easily book appointments, doctors can manage their schedules, and a
 ### 📅 Book Appointment  
 <img src="./screenshots/bookappointment.png" alt="Book Appointment" width="800"/>
 
-### 👤 Patient Dashboard  
-<img src="./screenshots/patient-dashboard.png" alt="Patient Dashboard" width="800"/>
-
-### 🩺 Doctor Dashboard  
-<img src="./screenshots/doctor-dashboard.png" alt="Doctor Dashboard" width="800"/>
-
-### ⚙️ Admin Dashboard  
-<img src="./screenshots/admin-dashboard.png" alt="Admin Dashboard" width="800"/>
+### ⚙️ Admin appointment
+<img src="./screenshots/appointment.png" alt="Admin Dashboard" width="800"/>
 
 
 ## 📦 Installation
