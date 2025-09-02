@@ -51,11 +51,11 @@ Patients can easily book appointments, doctors can manage their schedules, and a
 
 ## 📸 Screenshots
 
-| Home Page                      | Doctor List                          | Book Appointment                             |
-| ------------------------------ | ------------------------------------ | -------------------------------------------- |
-| ![Home](/screenshots/home.png) | ![Doctors](/screenshots/doctor.png) | ![Appointment](/screenshots/bookappointment.png) |
-
----
+<p align="center">
+  <img src="./screenshots/home.png" alt="Home Page" width="300"/>
+  <img src="./screenshots/doctor.png" alt="Doctor List" width="300"/>
+  <img src="./screenshots/bookappointment.png" alt="Book Appointment" width="300"/>
+</p>
 
 ## 📦 Installation
 
