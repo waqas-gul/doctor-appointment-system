@@ -9,15 +9,6 @@ A modern **Doctor Appointment Booking System** built with **React, Redux Toolkit
 Patients can easily book appointments, doctors can manage their schedules, and admins can monitor everything via dashboards.
 
 ---
-
-## 🎥 Live Demo
-
-[![Doctor Appointment Screenshot](/screenshots/home.png)](https://app.netlify.com/projects/doctors-appointments-system/deploys/68b73a86a26bc9631fd9358d)
-
-[![Visit Demo](https://img.shields.io/badge/VISIT_DEMO-Live-success)](https://your-live-demo-link.com/)
-
----
-
 ## ✨ Key Features
 
 - 📅 **Book & Manage Appointments** in real-time
@@ -49,13 +40,26 @@ Patients can easily book appointments, doctors can manage their schedules, and a
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots  
 
-<p align="center">
-  <img src="./screenshots/home.png" alt="Home Page" width="300"/>
-  <img src="./screenshots/doctor.png" alt="Doctor List" width="300"/>
-  <img src="./screenshots/bookappointment.png" alt="Book Appointment" width="300"/>
-</p>
+### 🏠 Home Page  
+<img src="./screenshots/home.png" alt="Home Page" width="800"/>
+
+### 👩‍⚕️ Doctor List  
+<img src="./screenshots/doctor.png" alt="Doctor List" width="800"/>
+
+### 📅 Book Appointment  
+<img src="./screenshots/bookappointment.png" alt="Book Appointment" width="800"/>
+
+### 👤 Patient Dashboard  
+<img src="./screenshots/patient-dashboard.png" alt="Patient Dashboard" width="800"/>
+
+### 🩺 Doctor Dashboard  
+<img src="./screenshots/doctor-dashboard.png" alt="Doctor Dashboard" width="800"/>
+
+### ⚙️ Admin Dashboard  
+<img src="./screenshots/admin-dashboard.png" alt="Admin Dashboard" width="800"/>
+
 
 ## 📦 Installation
 
